@@ -22,3 +22,5 @@ npm i express
 
 **Connection database to server**(Lecture 4)
 
+**Creation of User Schema**(Lecture 5)
+
